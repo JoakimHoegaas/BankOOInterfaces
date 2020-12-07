@@ -1,0 +1,6 @@
+﻿namespace BankOOInterfaces
+{
+    class Statement
+    {
+    }
+}
